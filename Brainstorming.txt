@@ -10,4 +10,5 @@ Wiki-Format: zim 0.4
 - Geniocracy
 - Castes - highest up are more knowledge based, lower are religious
 - Ruling caste are the astronomers, combining both
-- Lead by the Imperatrix, 
+- Lead by the Imperator or Imperatrix [Name], whose name is changed to a heavenly body once reaching power
+- [[Aurora Accord]] -> created by [[Imperatrix Quasar]]

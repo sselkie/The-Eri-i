@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+
+====== List of Castes ======
+Created Sunday 25 June 2017
+
+- Tein: Specialize in the concoction of materials and substances from resources taken from the ground. Can be in any profession from chefs to alchemists.

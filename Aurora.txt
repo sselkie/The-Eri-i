@@ -4,9 +4,9 @@ Wiki-Format: zim 0.4
 ====== Aurora ======
 Created Saturday 24 June 2017
 
-- Largest and most powerful city state in The Eri'i
-- Center of the alliance/bloc known as the [[Aurora Accord]]
-- [[Imperatrix Quasar]] was the Imperatrix of this city
-- Flag: black star on white background
-- Castes are separated by terraces/layers in the city
-- Top of city is a large obsrevatory
+* Largest and most powerful city state in The Eri'i
+* Center of the alliance/bloc known as the [[Aurora Accord]]
+* [[Important People:Imperatrix Quasar|Imperatrix Quasar]] was the Imperatrix of this city
+* Flag: black star on white background
+* Castes are separated by terraces/layers in the city
+* Top of city is a large observatory

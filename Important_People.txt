@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+
+====== Important People ======
+Created Monday 26 June 2017
+
+* List of people important to history
+	* [[.\Imperatrix_Quasar.txt|Imperatrix Quasar]]

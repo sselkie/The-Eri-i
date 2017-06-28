@@ -1,7 +1,9 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 
-====== Brainstorming ======
+====== Index ======
+
+==== Brainstorming ====
 
 * Continent called Eri'i
 * Arabian-esque (Mythology/Culture)
@@ -16,4 +18,3 @@ Wiki-Format: zim 0.4
 * Permafrost farming is viable: http://modernfarmer.com/2014/01/permafrost-farming-possible/
 * [[Magic]]: rituals based on star, moon, other heavenly body alignments
 * [[Religion]]: based on a reverence of the sky, and recognition of humanity's place on the earth
-

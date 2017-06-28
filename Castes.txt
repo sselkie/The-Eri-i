@@ -22,7 +22,7 @@ Created Sunday 25 June 2017
 * [[+Pestef|Pestef]]: Nobility/Clergy caste
 * [[+Socra|Socra]]: Philosopher caste
 * [[+Reh|Reh]]: Focus on healing and the spiritual state of the body
-* [[+Zuna|Zuna]]: Lowest caste, dedicated to pious lives in reverence of the night sky and its constellations
+* [[+Zuna|Zuna]]: Lowest caste, dedicated to pious lives in reverence of the night sky and its constellations. Also working class
 
 ==== Knowledge (Jul) Castes ====
 * [[+Azajul|Azajul]]: Nobility/Scientist caste

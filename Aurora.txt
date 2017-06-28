@@ -10,3 +10,4 @@ Created Saturday 24 June 2017
 * Flag: black star on white background
 * Castes are separated by terraces/layers in the city
 * Top of city is a large observatory
+	* Located on a mountain near the centre of the city

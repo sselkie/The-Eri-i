@@ -10,5 +10,6 @@ Created Sunday 25 June 2017
 * [[.\Astronomer.txt|Astronomers]] are the middle caste.
 * Anybody can enter the astronomer caste, but a special test is required for this, that almost all people can't pass.
 * Cities have councils of astronomers that elect the political leader, an Imperator or Imperatrix, the perfect balance of the spectrum in one person and the apex of the caste system.
-* Castes (aside from the astronomer and philosopher caste) tend to be focused on bloodlines, with families practicing the same traditions for generations.
+* Castes (aside from the astronomer and philosopher castes) tend to be focused on bloodlines, with families practicing the same traditions for generations.
 * Separated by city rungs
+* The higher castes place more faith in the earth than the sky, and the lower castes place more faith in the sky than the earth

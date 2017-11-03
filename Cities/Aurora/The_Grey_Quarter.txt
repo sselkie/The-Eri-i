@@ -4,6 +4,6 @@ Wiki-Format: zim 0.4
 ====== The Grey Quarter ======
 Created Sunday 25 June 2017
 
-* Ghetto/neighbourhood in [[..\Aurora.txt|Aurora]]
+* Ghetto/neighbourhood in [[Cities:Aurora|Aurora]]
 * Populated mostly by non-human races
-* Birthplace of Atrana Quare, later known as [[..\Important_People\Imperatrix_Quasar.txt|Imperatrix Quasar]]
+* Birthplace of Atrana Quare, later known as [[Important People:Imperatrix Quasar|Imperatrix Quasar]]

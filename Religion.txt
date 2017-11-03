@@ -7,3 +7,4 @@ Created Monday 26 June 2017
 * Heavily sky based - both night & day sky
 * Weather patterns, constellations, movement/appearance of heavenly bodies, eclipse, equniox/solstice, etc all factor in
 * Recognition of humanity's place on earth
+* Stars and the moon and sun in the sky could come down to the Earth as animals

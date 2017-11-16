@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+
+====== Constellations ======
+Created Thursday 16 November 2017
+
+(gotta think of better names for these)
+Represent:
+* Cunning
+* Charisma
+* Wisdom
+* Agility
+* Strength
+* Health
+
+Secondary Constellations
+* Cunning + Agility - Fox
+* Charisma + Agility - Hare?
+* Wisdom + Agility - ?
+
+* Cunning + Strength - ?
+* Charisma + Strength - ?
+* Wisdom + Strength - Bear
+
+* Cunning + Health - ?
+* Charisma + Health - ?
+* Wisdom + Health - ?

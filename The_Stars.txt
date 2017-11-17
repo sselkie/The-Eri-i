@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+
+====== The Stars ======
+Created Tuesday 07 November 2017
+
+The stars are in constellations, each star representing its own magical letter, with a whole constellation being a word with magical power that also doubles as a deity.
+
+* Tul Aka'Fon constellation
+	* Tul: Representing a being's awareness of its own wisdom, and subsequently their balance and comprehension of their different wisdoms. Two circles, representing the iris and pupil of an eye.
+	* Akare: Carnal wisdom. a being's awareness of its own body and sexuality. 
+	* Akane: Natural wisdom. Think druid/ranger type stuff. an arch representing the curvature of the earth
+	* Afon: Spiritual wisdom. religion and shit. symbol is a very cryptic "x" according to the ancient scriptures, which don't elaborate on its meaning

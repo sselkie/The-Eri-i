@@ -5,4 +5,4 @@ Wiki-Format: zim 0.4
 Created Monday 26 June 2017
 
 * List of people important to history
-	* [[.\Imperatrix_Quasar.txt|Imperatrix Quasar]]
+	* [[+Arxis Quasar|Arxis Quasar]]

@@ -15,13 +15,13 @@ Represent:
 
 Secondary Constellations
 * Cunning + Agility - Fox
-* Charisma + Agility - Hare?
-* Wisdom + Agility - ?
+* Charisma + Agility - Hare
+* Wisdom + Agility - Owl
 
-* Cunning + Strength - ?
-* Charisma + Strength - ?
+* Cunning + Strength - Wolf
+* Charisma + Strength - Hawk
 * Wisdom + Strength - Bear
 
-* Cunning + Health - ?
-* Charisma + Health - ?
-* Wisdom + Health - ?
+* Cunning + Health - Boar
+* Charisma + Health - Salmon
+* Wisdom + Health - Muskox

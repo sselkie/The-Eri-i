@@ -10,3 +10,4 @@ Wiki-Format: zim 0.4
 * City states/large settlements are founded around large farms
 * Permafrost farming is viable: http://modernfarmer.com/2014/01/permafrost-farming-possible/
 * [[Magic]]: rituals based on star, moon, other heavenly body alignments
+* [[Trading:]] sleighs & sleds pulled across the tundra by animals

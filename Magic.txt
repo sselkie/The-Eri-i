@@ -7,4 +7,4 @@ Created Monday 26 June 2017
 * Rituals based on the alignment of heavenly bodies
 * Create different effects depending on time of day
 * Extensive spellbooks and research put into perfecting rituals by the [[Castes:Krosine|astronomers]]
-* The [[Constellations|stars]] you're born under determine how effective your magic is at different things, and also who is strong and weak to your spells
+* The [[Constellation Brainstorming|stars]] you're born under determine how effective your magic is at different things, and also who is strong and weak to your spells

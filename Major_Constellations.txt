@@ -1,7 +1,7 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 
-====== The Stars ======
+====== Major Constellations ======
 Created Tuesday 07 November 2017
 
 The stars are in constellations, each star representing its own magical letter, with a whole constellation being a word with magical power that also doubles as a deity.

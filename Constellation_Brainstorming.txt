@@ -1,11 +1,11 @@
 Content-Type: text/x-zim-wiki
 Wiki-Format: zim 0.4
 
-====== Constellations ======
+====== Constellation Brainstorming ======
 Created Thursday 16 November 2017
 
 (gotta think of better names for these)
-Represent:
+[[Major Constellations]]
 * Cunning
 * Charisma
 * Wisdom
@@ -23,5 +23,5 @@ Secondary Constellations
 * Wisdom + Strength - Bear
 
 * Cunning + Health - Boar
-* Charisma + Health - Salmon
+* Charisma + Health - Elk
 * Wisdom + Health - Muskox

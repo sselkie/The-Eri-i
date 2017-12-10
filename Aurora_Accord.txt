@@ -5,5 +5,6 @@ Wiki-Format: zim 0.4
 Created Saturday 24 June 2017
 
 * Alliance of some sort
-* Functions as a primitive republic, controlled by the Imperatrix/Imperator
+* Functions as a primitive republic, controlled by the Arcon/Arxis
 * Based in [[Cities:Aurora|Aurora]]
+* [[Trading|Lumber]] partnerships have been indicated by some scholars as the closest precursors to the Aurora Accord

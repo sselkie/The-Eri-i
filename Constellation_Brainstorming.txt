@@ -25,3 +25,5 @@ Secondary Constellations
 * Cunning + Health - Boar
 * Charisma + Health - Elk
 * Wisdom + Health - Muskox
+
+Some of the mountains scattered throughout the tundra will have their own lone stars
